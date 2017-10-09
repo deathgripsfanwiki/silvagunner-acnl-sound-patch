@@ -1,5 +1,8 @@
-# some-thing
-:)
+# stuff
+
+
+
+# Installation
 
 To install, simply make a folder called "titles" in /luma/ if it doesn't already exist.
 
