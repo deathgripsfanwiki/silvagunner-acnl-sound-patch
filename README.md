@@ -1,6 +1,6 @@
 # Information
 
-This is a Luma Patch for Animal Crossing: New Leaf that replaces some of the music with Animal Crossing related music from [SilvaGunner](https://www.youtube.com/channel/UC9ecwl3FTG66jIKA9JRDtmg).
+This is a Luma Patch for Animal Crossing: New Leaf that replaces some of the music with Animal Crossing related music from [SilvaGunner](https://www.youtube.com/channel/UC9ecwl3FTG66jIKA9JRDtmg). For a list of what was changed, please refer to the [wiki](https://github.com/kekmaster97/silvagunner-acnl-sound-patch/wiki/List-of-Music-Changed) page.
 
 # Installation
 
