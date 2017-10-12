@@ -12,6 +12,6 @@ You can find the Title ID [here](http://www.3dsdb.com).
 
 Copy the contents of the downloaded .7z file to the folder you just made.
 
-Next, enable "Luma Patching" in the Luma Settings, hold start at boot to go to the settings menu.
+Next, enable "Luma Patching" in the Luma Settings, hold select at boot to go to the settings menu.
 
 That's it!
